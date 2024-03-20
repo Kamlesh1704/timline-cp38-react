@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.chrono-container {
+  height: 1000px;
+  width: 1500px;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(254, 132, 132);
+}

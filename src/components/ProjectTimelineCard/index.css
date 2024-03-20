@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.image {
+  height: 200px;
+  width: 400px;
+}
+.courseduration {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+a{
+  color: rgb(230, 33, 33);
+  font-size: 20px;
+}

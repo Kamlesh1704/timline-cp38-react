@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.courseduration {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
